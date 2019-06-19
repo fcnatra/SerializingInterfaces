@@ -1,0 +1,13 @@
+C:\Users\Frank.Torres\Documents\Proof of Concepts\SerializingInterfaces\SerializingInterfaces\bin\Debug\SerializingInterfaces.exe.config
+C:\Users\Frank.Torres\Documents\Proof of Concepts\SerializingInterfaces\SerializingInterfaces\bin\Debug\SerializingInterfaces.exe
+C:\Users\Frank.Torres\Documents\Proof of Concepts\SerializingInterfaces\SerializingInterfaces\bin\Debug\SerializingInterfaces.pdb
+C:\Users\Frank.Torres\Documents\Proof of Concepts\SerializingInterfaces\SerializingInterfaces\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Frank.Torres\Documents\Proof of Concepts\SerializingInterfaces\SerializingInterfaces\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Frank.Torres\Documents\Proof of Concepts\SerializingInterfaces\SerializingInterfaces\obj\Debug\SerializingInterfaces.csprojAssemblyReference.cache
+C:\Users\Frank.Torres\Documents\Proof of Concepts\SerializingInterfaces\SerializingInterfaces\obj\Debug\SerializingInterfaces.frmSerializingInterfaces.resources
+C:\Users\Frank.Torres\Documents\Proof of Concepts\SerializingInterfaces\SerializingInterfaces\obj\Debug\SerializingInterfaces.Properties.Resources.resources
+C:\Users\Frank.Torres\Documents\Proof of Concepts\SerializingInterfaces\SerializingInterfaces\obj\Debug\SerializingInterfaces.csproj.GenerateResource.cache
+C:\Users\Frank.Torres\Documents\Proof of Concepts\SerializingInterfaces\SerializingInterfaces\obj\Debug\SerializingInterfaces.csproj.CoreCompileInputs.cache
+C:\Users\Frank.Torres\Documents\Proof of Concepts\SerializingInterfaces\SerializingInterfaces\obj\Debug\SerializingInterfaces.csproj.CopyComplete
+C:\Users\Frank.Torres\Documents\Proof of Concepts\SerializingInterfaces\SerializingInterfaces\obj\Debug\SerializingInterfaces.exe
+C:\Users\Frank.Torres\Documents\Proof of Concepts\SerializingInterfaces\SerializingInterfaces\obj\Debug\SerializingInterfaces.pdb
